@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramBuilderLaunchConfigurationType">
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="false"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="D:\Android\cygwin\bin\bash.exe"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_RUN_BUILD_KINDS" value="full,incremental,"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="--login -c &quot;cd /cygdrive/D/Android/workspace/SampleShadow/proj.android &amp;&amp;  &#13;&#13;&#10;PATH=$PATH:/cygdrive/D/Android/workspace/SampleShadow/proj.android &amp;&amp; &#13;&#13;&#10;export COCOS2DX_ROOT=/cygdrive/D/Android/cocos2d-x-3.4  &amp;&amp; &#13;&#13;&#10;export NDK_ROOT=/cygdrive/D/Android/android-ndk-r9d &amp;&amp;&#13;&#10;export NDK_TOOLCHAIN_VERSION=4.8 &amp;&amp;&#13;&#13;&#10;build_native.py&quot;"/>
+<booleanAttribute key="org.eclipse.ui.externaltools.ATTR_TRIGGERS_CONFIGURED" value="true"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="D:\Android\cygwin\bin\"/>
+</launchConfiguration>
